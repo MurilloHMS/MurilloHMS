@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-murillohms.vercel.app-002868?style=for-the-badge&logo=vercel&logoColor=white)](https://murillohms.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-murillohms-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillohms/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511975797732)
 [![Profile Views](https://komarev.com/ghpvc/?username=MurilloHMS&color=1E90FF&style=for-the-badge&label=VISITAS&abbreviated=true)](https://github.com/MurilloHMS)
 
 </div>
